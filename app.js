@@ -5,7 +5,7 @@ const comentarios = [
         id: 1,
         nombre: "gillian s. maciejewski",
         trabajo: "desarrollador web",
-        img: "/img/img-2.png",
+        img: "img/img-2.png",
         texto:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt amet, officiis fuga deleniti pariatur placeat illum dicta quas aliquam."
     },
@@ -13,7 +13,7 @@ const comentarios = [
         id: 2,
         nombre: "herbert j. bowen",
         trabajo: "backend",
-        img: "/img/img-3.png",
+        img: "img/img-3.png",
         texto:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt amet."
     },
@@ -21,7 +21,7 @@ const comentarios = [
         id: 3,
         nombre: "wendell m. heer",
         trabajo: "frontend",
-        img: "/img/img-4.png",
+        img: "img/img-4.png",
         texto:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt amet, officiis fuga deleniti pariatur placeat illum dicta quas aliquam."
     },
@@ -29,7 +29,7 @@ const comentarios = [
         id: 4,
         nombre: "barbara t. lyle",
         trabajo: "diseñador ux",
-        img: "/img/img-1.png",
+        img: "img/img-1.png",
         texto:
             "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt amet, officiis fuga deleniti pariatur placeat illum dicta quas aliquam, architecto omnis debitis reiciendis veritatis magni. Illum repudiandae inventore nostrum excepturi."
     }
